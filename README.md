@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Vishwas0809
 - 👀 I’m interested in Software Development and AI
-- 🌱 I’m currently learnin MERN
 - 📫 How to reach me ... LinkedIn-http://linkedin.com/in/vishwas-mamgain
 
 
